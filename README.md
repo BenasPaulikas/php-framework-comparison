@@ -2,7 +2,13 @@
 
 TODO mention my experience with both.
 
+## Feature Comparison
+
 | Feature                  | Yii2 | Laravel |
 |--------------------------|-----|---------|
 | ActiveForm+ActiveField   |  Y  |    N    |
-TODO not having to write controller/action in routes. (auto generating rules)
+| GridView                 | Y   | N       |
+| Time travel in tests     | N   | Y       |
+| Auto generated default URL rules | Y | ? |
+
+
