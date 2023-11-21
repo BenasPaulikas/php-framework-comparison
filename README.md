@@ -16,5 +16,6 @@ These are major differences I've found out. I might be wrong here. Please create
 | ActiveDataProvider | x | Y | ? |
 | Time travel in tests     | x | N   | Y       |
 | Auto generated default URL rules for controller | X | Y | ? |
+| x | x | yii *migrate*/down yii *migrate* | artisan make:*migration* > artisan *migrate*
 
 
