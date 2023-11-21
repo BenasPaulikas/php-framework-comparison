@@ -12,8 +12,8 @@ These are major differences I've found out. I might be wrong here. Please create
 |--------------------------|-----|---------|
 | ActiveForm+ActiveField  | (allows easy form creation without using html tags like <form or <input) |  Y  |    N    |
 | GridView                | (allows easy table creation without using html tags like <table) | Y   | N       |
-| ActiveDataProvider | | Y | ? |
-| Time travel in tests     | | N   | Y       |
-| Auto generated default URL rules | | Y | ? |
+| ActiveDataProvider | x | Y | ? |
+| Time travel in tests     | x | N   | Y       |
+| Auto generated default URL rules | x | Y | ? |
 
 
