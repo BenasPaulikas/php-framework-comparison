@@ -1,6 +1,10 @@
 # php-framework-comparison
 
-TODO mention my experience with both.
+Welcome.
+I've worked with Yii(1+2) framework for 10+ years.
+Laravel only <1 year.
+
+These are major differences I've found out. I might be wrong here. Please create github issue if you don't agree with me.
 
 ## Feature Comparison
 
