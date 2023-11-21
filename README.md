@@ -8,12 +8,12 @@ These are major differences I've found out. I might be wrong here. Please create
 
 ## Feature Comparison
 
-| Feature                  | Yii2 | Laravel |
+| Feature                  | Description | Yii2 | Laravel |
 |--------------------------|-----|---------|
-| ActiveForm+ActiveField (allows easy form creation without using html tags like <form or <input)  |  Y  |    N    |
-| GridView (allows easy table creation without using html tags like <table)                | Y   | N       |
-| ActiveDataProvider | Y | ? |
-| Time travel in tests     | N   | Y       |
-| Auto generated default URL rules | Y | ? |
+| ActiveForm+ActiveField  | (allows easy form creation without using html tags like <form or <input) |  Y  |    N    |
+| GridView                | (allows easy table creation without using html tags like <table) | Y   | N       |
+| ActiveDataProvider | | Y | ? |
+| Time travel in tests     | | N   | Y       |
+| Auto generated default URL rules | | Y | ? |
 
 
