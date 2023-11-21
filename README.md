@@ -15,6 +15,6 @@ These are major differences I've found out. I might be wrong here. Please create
 | GridView                | (allows easy table creation without using html tags like <table) | Y   | N       |
 | ActiveDataProvider | x | Y | ? |
 | Time travel in tests     | x | N   | Y       |
-| Auto generated default URL rules | x | Y | ? |
+| Auto generated default URL rules for controller | X | Y | ? |
 
 
