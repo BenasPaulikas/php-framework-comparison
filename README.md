@@ -19,3 +19,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | x | x | yii *migrate*/down yii *migrate* | artisan make:*migration* > artisan *migrate*
 | Out of the box scheduling | x | N https://github.com/omnilight/yii2-scheduling | Y
 | AND in query | x | User::query()->where()->andWhere() | User::query()->where()->where()
+| TODO audit package |X | ? | Y |
