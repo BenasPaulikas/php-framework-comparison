@@ -18,5 +18,5 @@ These are major differences I've found out. I might be wrong here. Please create
 | Auto generated default URL rules for controller | X | Y | ? |
 | x | x | yii *migrate*/down yii *migrate* | artisan make:*migration* > artisan *migrate*
 | Out of the box scheduling | x | N https://github.com/omnilight/yii2-scheduling | Y
-| AND in query | x | User::query()->where()->andWhere() | User::query()->where()->where()
+| AND in query | x | User::find()->where()->andWhere() | User::query()->where()->where()
 | TODO audit package |X | ? | Y |
