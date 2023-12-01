@@ -20,3 +20,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | Out of the box scheduling | x | N https://github.com/omnilight/yii2-scheduling | Y
 | AND in query | x | User::find()->where()->andWhere() | User::query()->where()->where()
 | TODO audit package |X | ? | Y |
+| TODO auto urlManager/routes | X | Y | ?|
