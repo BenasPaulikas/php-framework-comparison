@@ -21,3 +21,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | AND in query | x | User::find()->where()->andWhere() | User::query()->where()->where()
 | TODO audit package |X | ? | Y |
 | TODO auto urlManager/routes | X | Y | ?|
+| Rules found in | x | Model rules+scenarios | Form |
