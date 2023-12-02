@@ -22,4 +22,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | TODO audit package |X | ? | Y |
 | TODO auto urlManager/routes | X | Y | ?|
 | Rules found in | x | Model rules+scenarios | Form |
-| file cache expiration | x | y | n? |
+| file cache expiration | x | y (gc kicks in at some small chance?) | n? |
