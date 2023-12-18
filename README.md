@@ -26,3 +26,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | debug\profiler |x | y(not only shows query but location in code) | https://github.com/jkocik/laravel-profiler?|
 | pusher | x | ? | y |
 | html components | x | Widget class | blade components
+| x | TODO explain which one is more bulletproof | Yii::$app->urlManager->getAbsoluteUrl() | url()->current()
