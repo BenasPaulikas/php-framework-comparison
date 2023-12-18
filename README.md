@@ -28,3 +28,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | html components | x | Widget class | blade components
 | x | TODO explain which one is more bulletproof | Yii::$app->urlManager->getAbsoluteUrl() | url()->current()
 | breadcrumbs | x | Y | N
+| extend from layout file | x | automatically by default | @extends('adminlte::page')
