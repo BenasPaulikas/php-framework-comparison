@@ -25,7 +25,7 @@ These are major differences I've found out. I might be wrong here. Please create
 | TODO auto urlManager/routes | X | Y | ?|
 | Rules found in | x | Model rules+scenarios | Form |
 | file cache expiration | x | y (gc kicks in at some small chance?) | n? |
-| debug\profiler |x | y(not only shows query but location in code) | https://github.com/jkocik/laravel-profiler?|
+| debug\profiler |x | y(not only shows query but location in code, explain button ready) | https://github.com/jkocik/laravel-profiler? no explain button?|
 | pusher | x | ? | y |
 | html components | x | Widget class (Class::widget() goes brrr)  | blade components (need to register them)
 | x | TODO explain which one is more bulletproof | Yii::$app->urlManager->getAbsoluteUrl() | url()->current()
