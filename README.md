@@ -32,3 +32,4 @@ These are major differences I've found out. I might be wrong here. Please create
 | breadcrumbs | x | Y | N
 | extend from layout file | x | automatically by default | @extends('adminlte::page')
 | render |x | no need to specify folders | view('default_view::admin.pages.bonus-auto-message.index')
+| Observer | x | x |x 
